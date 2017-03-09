@@ -1,0 +1,101 @@
+=======
+ PERKS
+=======
+Greenie					You're wet-behind the ears. You've just acquired an entry-level position on a
+						commercial merchant vessel, and know next-to-nothing (or maybe absolutely nothing)
+						about the life of a "spacer". You're likely to be worked hard, tired faster, and
+						your crewmates, especially Professional Spacers, may be inclined to make your life
+						harder than is, strictly speaking, necessary.
+						• Increased difficulty when taking ratings exams
+						• Increased chance to fail scheduled drills
+						• Increased chance of negative events when performing ship's tasks
+						• Increased chance of negative Social events when working with Professional Spacers 
+						  and Indy Brats
+
+Land Rat				You are inexperienced in the ways of the Deep Dark and its space-going vessels. 
+						You grew up planetside, and even trips up to the planetary orbital were a unique 
+						and rare experience. You are more likely to have trouble fitting in with a crew
+						of Professional Spacers or Indy Brats, and may be slower to learn The Articles.
+						• Increased difficulty when taking ratings exams
+						• Increased chance to fail scheduled drills
+						• Increased chance of negative events when performing ship's tasks
+						• Increased chance of negative Social events when working with Professional Spacers 
+						  and Indy Brats
+						• Land Rats are always Greenies, and the effects of that perk stack with this one
+				
+Indy Brat				You grew up on the cargo deck, bridge or gallery of a family hauler, travelling
+						the spacelanes as part of a Trader Family. You have a much easier time learning 
+						The Articles, but there's a pretty severe bias when it comes to Professional 
+						Spacers, and you may have trouble fitting in on a commercial vessel.
+						• Decreased difficulty when taking ratings exams
+						• Decreased difficulty when performing ship's tasks
+						• Increased chance for negative Social events when working with Professional Spacers 
+						  and Land Rats
+				
+Professional Spacer		You may not have been born into the life, but you have enough experience aboard
+						commercial vessels to fit into it. You know The Articles, or at least enough to
+						perform your duties to satisfaction. You've earned at least one Half-Share rating,
+						and are steadily working upward in your chosen path or path(s). You might make 
+						Captain, or even Owner one day. You have a hard time putting up with Greenies,
+						Land Rats and Indy Brats.						
+						• Increased chance for negative Social events when working with Indy Brats and 
+						  Land Rats						
+						
+Test Machine			You learn FAST, and you remember almost everything you learn. Tests are a cinch.
+						You are likely to rocket up the ratings as you take and pass multiple tests each 
+						testing period. Your employability is high, and you are far more likely to be
+						accepted as a candidate for The Academy.
+						• Greatly decreased difficulty when taking ratings exams
+						• Increased chance of Academy candidacy
+						
+Got The Touch			You can read a ship like a book, and handle her like a dream. You can pull amazing,
+						unbelievable maneuvers that other wouldn't dare even THINK about trying. You can
+						surf the solar waves with the skill of master, all on intuition. When you are at
+						the helm, the ship sails more efficiently, reducing cost and transit time, and in-
+						creasing crew morale slightly.
+						• Ship transit time is reduced when acting as Ship Handler
+						• Ship operational cost is slightly reduced when acting as Ship Handler
+						• Crew Morale increases slightly as a result of the above two items
+						
+Charmer					You know how to dress well, speak intelligently, and can charm others easily. You
+						make friends very quickly, and are more likely to fit in wherever you go, increasing
+						your productivity and crew morale.
+						• Increased chance of successfully performing ship's tasks when working with others
+						• Decreased chance of negative Social events
+						• Increased chance of positive Social events
+						
+Cargo Genius			Your knowledge of trade goods and market prices is second-to-none. Everywhere you
+						go, good deals appear to you. You are a good companion to shop with, or help run a
+						co-op. Ship's morale increases with you around as the shares go up. Crew are, 
+						however, more likely to get in a bit too much trouble with all the extra cred to
+						spend when docked. 
+						• Decreased operational cost when assigned to Steward division
+						• Increased ship profit when assigned to Cargo division
+						• Crew shares and morale increase if assigned to a co-op when in-port and off-duty 
+						
+Cooking, It's My Life	Your passion is making the finest meals, and seeing the pleasure others derive from
+						them. When you're in the galley, crew morale skyrockets from the excellent meals you
+						provide, and with a good Cargo Genius at hand, you can help reduce the expense of
+						your section to increase profits and further increase morale.
+						• Greatly increased morale when assigned to Steward division
+						• Slightly decreased operational cost if working with a Cargo Genius in Steward 
+						  division
+
+Sludge Monkey			You're just good with sludge. Actually, most things slimy, slightly smelly or bubbly
+						tend to speak to you a bit more clearly than most people generally understand. You
+						find "Foggy Bottom" to be a happy home, and an enjoyable workplace. Environmental
+						systems are much easier for you to fix and operate.
+						• Increased chance to successfully perform ship's tasks when assigned to Environmental
+						• Decreased chance of negative Environmental events when assigned to Environmental
+
+Gadget Head
+
+Combat Expert
+
+Booze Hound
+
+Gear Head
+
+Lone Wolf Syndrome		You have a tendency to take on more than you can actually handle on your own. This
+						tends to get you into more trouble than normal. 
+						• Greatly increased risk of negative events occurring

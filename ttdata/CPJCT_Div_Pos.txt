@@ -1,0 +1,45 @@
+=========================
+ Dept - Position - Share
+  Listed by division in 
+   increasing order of 
+        rank/pay
+=========================
+NA - Captain - Captain's Share (Percentage of Profit)
+
+Deck - Spacer Apprentice - Quarter
+Deck - Ordinary Spacer - Half
+Deck - Able Spacer - Full
+Deck - Spec 1/2/3 Astrogator - Full
+Deck - Spec 1/2/3 Ship Handler - Full
+Deck - Specialist Systems - Double (Officer)
+Deck - Astrogation Officer - Double (Officer)
+Deck - Third Mate - Double (Officer)
+Deck - Second Mate - Double (Officer)
+Deck - First Mate - Double (Officer)
+
+Steward - Attendant - Quarter
+Steward - Food Handler - Half
+Steward - Messman - Full
+Steward - Spec 1/2/3 Chef - Full
+Steward - Spec 1/2/3 Steward - Full
+Steward - Spec 1/2/3 Bursar - Full
+Steward - Steward's Mate - Double (Officer)
+Steward - Chief Steward - Double (Officer)
+
+Engineering - Wiper - Quarter
+Engineering - Engineman - Half
+Engineering - Machinist - Full
+Engineering - Spec 1/2/3 Power - Full
+Engineering - Spec 1/2/3 Propulsion - Full
+Engineering - Spec 1/2/3 Environmental - Full
+Engineering - Engineering Second - Double (Officer)
+Engineering - Engineering First - Double (Officer)
+Engineering - Chief Engineer - Double (Officer)
+
+Cargo - Cargo Loader - Quarter
+Cargo - Cargo Handler - Half
+Cargo - Cargoman - Full
+Cargo - Spec 1/2/3 Cargo Routing - Full
+Cargo - Spec 1/2/3 Cargo Handling - Full
+Cargo - Cargo First - Double (Officer)
+Cargo - Cargo Master - Double (Officer)

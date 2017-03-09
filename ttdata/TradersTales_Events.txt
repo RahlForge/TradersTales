@@ -1,0 +1,42 @@
+========
+ EVENTS
+========
+Social			Positive: 
+				• Friendship
+					It's nice to be needed. You've made a new friend, and the voyage isn't quite so lonely.
+					• Slightly increased morale
+				• Love
+					
+				• Party
+				• Night Out
+				• Shopping Trip
+				Negative: 
+				• Dislike
+				• Hatred
+				• Fight
+				• Embarassed
+				• Snubbed
+			
+Deck			Positive: 
+				• Long Jump
+				• Faster Flow
+				• Better Route
+				Negative: 
+				• System Failure
+				• Short Jump
+				• Heavy Turbulence
+				• Bad Route
+
+Steward			Positive: 
+				• Excellent Meal
+				• Ace Service
+				• Chatty Galley
+				• Great Coffee
+				Negative: 
+				• Poor Meal
+				• Messy Deck
+				• Dark, Bitter & Oily
+
+Environmental	
+
+Cargo			
